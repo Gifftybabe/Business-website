@@ -17,7 +17,7 @@
 }
 
 /* Smartphones */
-@media (max-width: 500px) {
+@media(max-width: 500px) {
     #navbar {
         flex-direction: column;
         align-items: center;
@@ -52,14 +52,15 @@
         display: none;
     }
 
-    #contact {
+    /* #contact {
         flex-direction: column;
     }
 
     #contact .map {
-        height: 200px;
+        height: 600px;
         border-top: 4px solid #333;
-    }
+    } */
+}
 
     @media(max-height: 568px) {
         #showcase .showcase-content {
@@ -77,4 +78,4 @@
 
 
     }
-}
+
