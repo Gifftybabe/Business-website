@@ -75,13 +75,6 @@
             font-size: 1rem;
         }
 
-        #contact {
-            flex-direction: column;
-        }
 
-        #contact .map {
-            height: 200px;
-            border-top: 4px solid #333;
-        }
     }
 }
